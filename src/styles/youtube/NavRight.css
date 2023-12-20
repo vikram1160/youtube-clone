@@ -1,0 +1,17 @@
+.nav-right-container{
+    display: flex;
+}
+
+.right-button{
+    margin-left:20px;
+}
+
+.signin-btn{
+    border: 1px solid cyan;
+    background-color: transparent;
+
+    color: cyan;
+    border-radius: 10px;
+
+    padding: 3px 5px;
+}

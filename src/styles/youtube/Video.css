@@ -1,0 +1,17 @@
+.video-container{
+    padding: 3px;
+    width: 350px;
+}
+
+.thumbnail{
+    height: 230px;
+    width: 100%;
+}
+
+.thumbnail > img{
+    border-radius: 10px;
+}
+
+.video-title, .channel-name, .view-count{
+    margin: 0;
+}
